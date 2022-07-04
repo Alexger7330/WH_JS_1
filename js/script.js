@@ -133,4 +133,5 @@ let str1 = "индо земля зашаталась под ногами-и вы
   str8 = "В ту же минуту, безо всяких туч,",
   text;
 text = str6 + str8 + str3 + str1 + str5 + str7 + str4 + str2;
-document.write(text)
+document.write(text);
+console.log(text);
